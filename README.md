@@ -1,5 +1,12 @@
+<!-- Optional Banner (Upload to GitHub and use your own link or ask me to design one) -->
+<!-- <img src="https://your-banner-image-link.com/banner.png" alt="banner" /> -->
+
 <h1 align="center">Hi 👋, I'm Sidharth M</h1>
 <h3 align="center">Final Year CSE Student | Full Stack Developer | Exploring AI</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sidharthmanimaran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -8,6 +15,14 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, MySQL, React**
 - 📫 Reach me at: **sidhu2222005@gmail.com**
 - 📄 Connect with me: [LinkedIn](https://www.linkedin.com/in/sidharth-m-9b3397255/)
+
+---
+
+### 🚀 Featured Projects
+
+- [🔗 College Management System](https://github.com/sidharthmanimaran/college-system)
+- [💻 Portfolio Website](https://github.com/sidharthmanimaran/portfolio)
+- [🧠 AI Text Generator](https://github.com/sidharthmanimaran/ai-writer)
 
 ---
 

@@ -43,11 +43,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidharthmanimaran&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmanimaran&layout=compact&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sidharthmanimaran&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&border_radius=10&custom_title=My+GitHub+Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmanimaran&layout=donut&theme=gruvbox&hide_border=true&border_radius=10&langs_count=6" width="48%" />
 </p>
 
 ---

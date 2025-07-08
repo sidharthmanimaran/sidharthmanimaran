@@ -52,10 +52,10 @@
 
 ---
 
-### 🔥 GitHub Activity Streak
+### 📆 Contribution Calendar
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sidharthmanimaran&theme=algolia&ring=FF6B81&fire=FF6B81&border=DD2727&currStreakLabel=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharthmanimaran&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---

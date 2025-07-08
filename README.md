@@ -13,19 +13,19 @@
 
 ### 💡 About Me
 
-- 🎓 Final Year Student – B.E. CSE
-- 🔭 Currently working on: Full Stack Projects & AI Tools
-- 🌱 Learning: React.js, SQL, and Backend Development
-- 💬 Ask me about: HTML, CSS, JavaScript, Java, MySQL, React
-- 📫 Reach me at: [sidhu2222005@gmail.com](mailto:sidhu2222005@gmail.com)
+- 🎓 Final Year Student – B.E. CSE  
+- 🔭 Currently working on: Full Stack Projects & AI Tools  
+- 🌱 Learning: React.js, SQL, and Backend Development  
+- 💬 Ask me about: HTML, CSS, JavaScript, Java, MySQL, React  
+- 📫 Reach me at: [sidhu2222005@gmail.com](mailto:sidhu2222005@gmail.com)  
 - 🔗 Connect on: [LinkedIn](https://www.linkedin.com/in/sidharth-m-9b3397255/)
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🎓 [College Management System](https://github.com/sidharthmanimaran/college-management-system) – Manage students, staff, and academics efficiently
-- 🌐 [Portfolio Website](https://github.com/sidharthmanimaran/portfolio-website) – A responsive personal portfolio built from scratch
+- 🎓 [College Management System](https://github.com/sidharthmanimaran/college-management-system) – Manage students, staff, and academics efficiently  
+- 🌐 [Portfolio Website](https://github.com/sidharthmanimaran/portfolio-website) – A responsive personal portfolio built from scratch  
 - 🤖 [AI Text Generator](https://github.com/sidharthmanimaran/ai-text-generator) – Generate creative text using OpenAI API
 
 ---
@@ -47,15 +47,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sidharthmanimaran&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&border_radius=10&custom_title=My+GitHub+Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmanimaran&layout=donut&theme=gruvbox&hide_border=true&border_radius=10&langs_count=6" width="48%" />
-</p>
-
----
-
-### 📆 Contribution Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharthmanimaran&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmanimaran&layout=compact&theme=gruvbox&hide_border=true&border_radius=10&langs_count=6" width="48%" />
 </p>
 
 ---

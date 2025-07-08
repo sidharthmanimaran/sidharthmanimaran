@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React.js and Backend Development with SQL**
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, MySQL, React**
 - 📫 Reach me at: **sidhu2222005@gmail.com**
-- 📄 Connect with me: [LinkedIn](https://www.linkedin.com/in/sidharthmanimaran)
+- 📄 Connect with me: [LinkedIn](https://www.linkedin.com/in/sidharth-m-9b3397255/)
 
 ---
 
@@ -35,5 +35,5 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharthmanimaran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-m-9b3397255/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidhu2222005@gmail.com)

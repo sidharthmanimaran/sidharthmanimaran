@@ -52,10 +52,10 @@
 
 ---
 
-### 🔥 Contribution Streak
+### 🔥 GitHub Activity Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sidharthmanimaran&theme=radical&hide_border=true" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=sidharthmanimaran&theme=algolia&ring=FF6B81&fire=FF6B81&border=DD2727&currStreakLabel=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
 </p>
 
 ---

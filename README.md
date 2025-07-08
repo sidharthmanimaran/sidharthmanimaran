@@ -1,62 +1,73 @@
-<h1 align="center">Hi 👋, I'm Sidharth M</h1>
-<h3 align="center">Final Year CSE Student | Full Stack Developer | AI Enthusiast</h3>
+<!-- Profile Header -->
+<h2 align="center">Hey there, I'm <span style="color:#00BFFF;">Sidharth M</span> 👋</h2>
+<h4 align="center">🚀 Final Year CSE Student | Full Stack Developer | Exploring AI 🌟</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sidharthmanimaran&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Crafting+code+with+passion...;Building+projects+that+solve+real+problems;Always+learning+something+new!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sidharthmanimaran" alt="Visitor Count" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 💡 About Me
 
-- 🔭 I’m currently building **Full Stack Projects** and experimenting with **AI-powered tools**
-- 🌱 Learning **React.js**, **SQL**, and exploring modern backend frameworks
-- 💡 I love crafting intuitive UIs and solving real-world problems with code
+- 🛠️ Currently working on **Full Stack Projects** & **AI Experiments**
+- 🌱 Learning **React.js**, **Backend Development**, and **SQL**
 - 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `Java`, `MySQL`, `React`
 - 📫 Reach me at: [sidhu2222005@gmail.com](mailto:sidhu2222005@gmail.com)
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sidharth-m-9b3397255/)
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/sidharth-m-9b3397255/)
+- 🌟 Passionate about solving real-world problems with code
 
 ---
 
-### 🧠 Skills & Technologies
+### 🚀 Featured Projects
 
-#### Languages:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=mysql&logoColor=white)
-
-#### Tools & Frameworks:
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+- 📘 [College Management System](https://github.com/sidharthmanimaran/college-management-system) – Manage students, faculty, and records efficiently
+- 🌐 [Portfolio Website](https://github.com/sidharthmanimaran/portfolio-website) – Personal portfolio built with clean design & responsive layout
+- 🤖 [AI Text Generator](https://github.com/sidharthmanimaran/ai-text-generator) – Generate text creatively using OpenAI API
 
 ---
 
-### 🌟 Featured Projects
+### 🧰 Languages and Tools
 
-- 📚 [College Management System](#) – Streamlines academic data, attendance, and records.
-- 🌐 [Portfolio Website](#) – A personal portfolio showcasing my work and skills.
-- 🤖 [AI Text Generator](#) – A simple web app using AI to generate content.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidharthmanimaran&show_icons=true&theme=tokyonight&title_color=ff6b81&text_color=ffffff&icon_color=79ff97" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmanimaran&layout=compact&theme=tokyonight&title_color=ff6b81&text_color=ffffff" width="45%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sidharthmanimaran&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthmanimaran&layout=compact&theme=radical" width="47%" />
+</p>
 
 ---
 
-### 📫 Let’s Connect
+### 🏆 GitHub Trophies
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-m-9b3397255/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidhu2222005@gmail.com)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sidharthmanimaran&theme=radical&margin-w=10&margin-h=10" />
+</p>
 
 ---
 
-> *“Building with code. Growing with curiosity.”* ✨
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sidharth-m-9b3397255/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sidhu2222005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
